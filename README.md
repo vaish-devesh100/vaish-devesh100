@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaish-devesh100
 - 👀 I’m interested in Quantum Computing (although still Learning and would continue to say this forever, that I am an amateur)
-- 🌱 I’m currently learning every that I feel is interesting. 
+- 🌱 I’m currently learning everything that I feel is interesting. 
 - 💞️ I’m looking to collaborate with people who are still learning.
 - 📫 How to reach me - Email --> deveshvaish100@gmail.com
 
